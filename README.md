@@ -1,8 +1,8 @@
-# 👋 Hi, I'm **trambleofficial**
+# 👋 Hi, I'm **trambleofficial-tf-tg**
 
 🚀 Passionate **Developer | Creator | Tech Explorer**
 
-Welcome to my GitHub profile! I'm **trambleofficial**, a developer who loves building modern, clean, and practical solutions using code. I enjoy learning new technologies and turning ideas into real projects.
+Welcome to my GitHub profile! I'm **trambleofficial-tf-tg**, a developer who loves building modern, clean, and practical solutions using code. I enjoy learning new technologies and turning ideas into real projects.
 
 ---
 
@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm **trambleofficial**, a developer who loves bui
 
 ## 📂 Projects
 
-* 🔹 **trambleofficial** – My profile & starter repository
+* 🔹 **trambleofficial-tf-tg** – My profile & starter repository
 * 🔹 More projects coming soon 🚧
 
 ---
