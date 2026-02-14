@@ -19,9 +19,8 @@ Welcome to my GitHub profile! I'm **trambleofficial-tf-tg**, a developer who lov
 ## 🛠️ Tech Stack
 
 **Languages & Tools:**
-
-* ⚙️ Node.js
 * 🐍 Python
+* ⚙️ Node.js
 * 🔧 Git & GitHub
 
 ---
