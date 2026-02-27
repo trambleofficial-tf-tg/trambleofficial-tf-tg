@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm **trambleofficial-tf-tg**, a developer who lov
 
 ## 📂 Projects
 
-* 🔹 **trambleofficial-tf-tg** – My profile & starter repository
+* 🔹 **trambleofficial** – My profile & starter repository
 * 🔹 More projects coming soon 🚧
 
 ---
