@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm **trambleofficial-tf-tg**, a developer who lov
 
 * 🔭 Currently working on personal & open-source projects
 * 🌱 Learning and improving skills every day
-* 💡 Interested in **Web Development, Automation, Bots & AI tools**
+* 💡 Interested in **Web Development, Automation, Bots & tools etc**
 * 🛠️ Love clean code and minimal design
 * 📫 Reach me at: **[trambleofficial@gmail.com](mailto:trambleofficial@gmail.com)**
 
