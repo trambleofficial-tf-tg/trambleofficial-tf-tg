@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **trambleofficial-tf-tg**
+# 👋 Hi, I'm **trambleofficial-TFTG
 
 🚀 Passionate **Developer | Creator | Tech Explorer**
 
