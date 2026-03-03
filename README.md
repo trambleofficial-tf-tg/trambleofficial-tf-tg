@@ -28,7 +28,6 @@ Welcome to my GitHub profile! I'm **trambleofficial-tf-tg**, a developer who lov
 ## 📂 Projects
 
 * 🔹 **trambleofficial** – My profile & starter repository
-* 🔹 More projects coming soon 🚧
 
 ---
 
